@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abigu-5/Todo-react/static/css/main.736ccca2.css",
+    "main.js": "/abigu-5/Todo-react/static/js/main.ccab8347.js",
+    "index.html": "/abigu-5/Todo-react/index.html",
+    "main.736ccca2.css.map": "/abigu-5/Todo-react/static/css/main.736ccca2.css.map",
+    "main.ccab8347.js.map": "/abigu-5/Todo-react/static/js/main.ccab8347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736ccca2.css",
+    "static/js/main.ccab8347.js"
+  ]
+}
